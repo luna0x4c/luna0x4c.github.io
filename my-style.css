@@ -1,0 +1,94 @@
+
+
+<head>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+</head>
+
+
+<style type="text/css">
+.main-container {
+  max-width: 98% !important;
+  min-height: 100% !important;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #434343;
+  color: #eaeaea;
+}
+</style>
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  line-height: 1.6em;
+  margin-bottom: 2em;
+  background-color: #434343;
+  color: #eaeaea;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  line-height: 1.6em;
+  margin-bottom: 2em;
+  background-color: #434343;
+  color: #eaeaea;
+  -ms-text-size-adjust: 95%;
+  -webkit-text-size-adjust: 95%;
+  min-height: 100% !important;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  line-height: 1.6em;
+  margin-bottom: 2em;
+  background-color: #434343;
+  color: #eaeaea;
+  min-height: 100% !important;
+}
+
+a {
+  color: #1f92f2;  /*brighter than the default blue*/
+}
+
+a:hover {
+  background-color: #eaeaea;
+  color: #434343;
+  font-weight: bold;
+}
+
+
+<style>
+
+details > summary {
+  padding: 10px;
+  width: 200px;
+  border: none;
+  box-shadow: none;
+  /*font-size: 18px;*/
+  font-weight: 400;
+  cursor: pointer;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6em;
+  margin-bottom: 2em;
+}
+
+details > p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  line-height: 1.6em;
+  margin-bottom: 2em;
+  background-color: #434343;
+  color: #eaeaea;
+  padding: 10px;
+  margin: 2%;
+  border: none;
+  box-shadow: none;
+}
+
+</style>

@@ -1,5 +1,4 @@
 local_ignore/ 
-files/ 
+files_ignore/ 
 .DS_Store 
-.DS_Store
 .DS_Store
